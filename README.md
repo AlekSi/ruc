@@ -1,1 +1,3 @@
 # ruc
+
+Run Until Crash.
